@@ -1,4 +1,3 @@
-
 ---
 title: "Bodenfeuchtigkeitssensor"
 date: "2018-10-01T12:57:44.000Z"
